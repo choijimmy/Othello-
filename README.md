@@ -1,2 +1,0 @@
-# Othello-
-Othello game
